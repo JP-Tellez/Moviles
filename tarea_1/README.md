@@ -26,8 +26,8 @@ CreateState Method - StatefulWidget Class - Widgets Library - DART API. (s. f.)
 
 IconButton Class - Material Library - DART API. (s. f.). https://api.flutter.dev/flutter/material/IconButton-class.html
 
-![alt text](https://drive.google.com/file/d/1NbzxZkz4nf5OYYHA4Oqa8EC1ZYY39SUz/view?usp=drive_link)
+![alt text](./images/imagen1.png)
 
-![alt text](https://drive.google.com/file/d/1cIFX-QKKTFXXbk7KI2slfiMnYaoylHwG/view?usp=drive_link)
+![alt text](./images/imagen2.png)
 
-![alt text](https://drive.google.com/file/d/1SpDynbQR67dxa1DDYm8vdarNcRUrtenW/view?usp=drive_link)
+![alt text](./images/imagen3.png)
