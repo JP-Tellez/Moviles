@@ -2,6 +2,8 @@
 
 Conociendo los Scaffold y widgets mas comunes
 
+- La pantalla principalmente se construyo como tipo de uun grid, primeramente una columna, y a partir de ahi pues puros rows donde eran necesarios, y finalmente pues se hizo un alignment para que todo parezca
+
 ## Lo que me costo mas trabajo
 Me costo mucho trabajo hacer funcionar los botones que cambian de color, ya que pues no tenia nada de conocimiento sobre esto y pues sigo sin tener, no entiendo porque tuve que crear como otra clase que no tuviera el StatelessWidget, o solo poderle cambiar el stateless a ful
 
