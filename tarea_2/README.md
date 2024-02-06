@@ -13,7 +13,7 @@ Mucho sobre el layout y sobre los estilos que existen, en especial en los contai
 Aplicacion del clima que te a la hora de darlee click a cualquier card de los del 10day forecast, te muestra un snackbar con el dia y el clima de ese dia
 
 ## Link a video
-
+https://drive.google.com/file/d/12KfqAwV26X1V2usP1eAieyMQZujV--rM/view?usp=drive_link 
 
 
 ## Referencias
