@@ -1,5 +1,7 @@
 # Alineaciones y estilos
 
+- Checar video para ver todo lo que pide la tarea, como el solo seleccionar un listTile, los botones funcionales y como rota el celular
+
 - La pantalla principalmente se construyo con una columna, donde se tiene el texto, el listview y una row con los botones y el invisible Vertical Divider
 - Se siguen viendo los temas de layout, y ahorita principalmente se vio lo de las Listas y tambien cambio de estados
 
